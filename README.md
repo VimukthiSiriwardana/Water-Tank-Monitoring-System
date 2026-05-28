@@ -1,16 +1,12 @@
 # 🚰 IoT-Based Water Tank Monitoring System
 
-<div align="center">
-
-### Embedded Systems & IoT Automation Project
+## Embedded Systems & IoT Automation Project
 
 Developed as part of a semester group project at SLIIT
 
-</div>
-
 ---
 
-## 📖 Project Overview
+# 📖 Project Overview
 
 The **IoT-Based Water Tank Monitoring System** is a smart automation solution designed to monitor and manage water levels efficiently using IoT and embedded system technologies.
 
@@ -20,19 +16,19 @@ This project was developed to reduce water wastage, prevent overflow conditions,
 
 ---
 
-## ✨ Key Features
+# ✨ Key Features
 
-- ✅ Real-time Water Level Monitoring  
-- ✅ Automatic Pump ON/OFF Control  
-- ✅ LCD Display Integration  
-- ✅ Alarm Notifications for Critical Levels  
-- ✅ Mobile Monitoring Support via WiFi  
-- ✅ Overflow Prevention & Water Waste Reduction  
-- ✅ Smart Automation using Embedded Systems  
+* ✅ Real-time Water Level Monitoring
+* ✅ Automatic Pump ON/OFF Control
+* ✅ LCD Display Integration
+* ✅ Alarm Notifications for Critical Levels
+* ✅ Mobile Monitoring Support via WiFi
+* ✅ Overflow Prevention & Water Waste Reduction
+* ✅ Smart Automation using Embedded Systems
 
 ---
 
-## 🛠️ Technologies & Components
+# 🛠️ Technologies & Components
 
 | Component                 | Description                               |
 | ------------------------- | ----------------------------------------- |
@@ -47,27 +43,27 @@ This project was developed to reduce water wastage, prevent overflow conditions,
 
 ---
 
-## ⚙️ System Functionality
+# ⚙️ System Functionality
 
-### 🔹 Water Level Detection
+## 🔹 Water Level Detection
 
 The ultrasonic sensor continuously measures the distance between the sensor and the water surface to determine the current water level.
 
-### 🔹 Data Processing
+## 🔹 Data Processing
 
 The ESP8266 processes sensor readings and determines the system state based on predefined thresholds.
 
-### 🔹 Automatic Pump Control
+## 🔹 Automatic Pump Control
 
 When the water level becomes low, the relay module activates the pump automatically. Once the tank reaches a safe level, the pump is turned OFF.
 
-### 🔹 Real-Time Monitoring
+## 🔹 Real-Time Monitoring
 
 The LCD display provides live water level updates while the alarm system alerts users during critical conditions.
 
 ---
 
-## 📊 Project Workflow
+# 📊 Project Workflow
 
 ```text
 Start
@@ -87,7 +83,7 @@ Repeat Monitoring Cycle
 
 ---
 
-## 📷 Repository Contents
+# 📷 Repository Contents
 
 This repository includes:
 
@@ -98,7 +94,7 @@ This repository includes:
 
 ---
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 This project helped us strengthen our understanding of:
 
@@ -111,7 +107,7 @@ This project helped us strengthen our understanding of:
 
 ---
 
-## 👨‍💻 Team Members
+# 👨‍💻 Team Members
 
 * Vimukthi Siriwardana
 * Pavitha M
@@ -121,6 +117,6 @@ This project helped us strengthen our understanding of:
 
 ---
 
-## 📄 Documentation
+# 📄 Documentation
 
 The final project proposal and supporting diagrams are included in this repository.
