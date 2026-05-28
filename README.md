@@ -22,13 +22,13 @@ This project was developed to reduce water wastage, prevent overflow conditions,
 
 ## ✨ Key Features
 
-✅ Real-time Water Level Monitoring
-✅ Automatic Pump ON/OFF Control
-✅ LCD Display Integration
-✅ Alarm Notifications for Critical Levels
-✅ Mobile Monitoring Support via WiFi
-✅ Overflow Prevention & Water Waste Reduction
-✅ Smart Automation using Embedded Systems
+- ✅ Real-time Water Level Monitoring  
+- ✅ Automatic Pump ON/OFF Control  
+- ✅ LCD Display Integration  
+- ✅ Alarm Notifications for Critical Levels  
+- ✅ Mobile Monitoring Support via WiFi  
+- ✅ Overflow Prevention & Water Waste Reduction  
+- ✅ Smart Automation using Embedded Systems  
 
 ---
 
